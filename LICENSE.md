@@ -1,6 +1,6 @@
 # 📜 LICENSE — Sandi Morse by Lirihku
 
-**Copyright © 2025 Ash Shiddieqy — [Pramuka Sejati](https://www.lirihku.id/)**  
+**Copyright © 2026 Ash Shiddieqy — [Pramuka Sejati](https://www.lirihku.id/)**  
 All rights reserved.  
 Created in May 2026.
 
